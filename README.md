@@ -8,3 +8,5 @@ I'm a Computer Scientist, amateur game developer, and Artificial Intelligence ad
 - ⚡ Fun fact: I'm a sponsored athlete! I discovered Archery at University and fell in love quickly, so far my peak achievement is becoming a British University Team Champion [back in 2018](https://www.facebook.com/ubarchery/videos/766284096895657)!
 
 Find me on [twitter](https://twitter.com/JamalRahman) or [linkedin](https://www.linkedin.com/in/jamal-rahman/).
+
+Shoutout to IBM for not sharing Github Enterprise commits to Github public, amplifying the sparsity of my Github contribs 2019-2020.
