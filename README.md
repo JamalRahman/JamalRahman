@@ -1,4 +1,4 @@
-### Hi, I'm Jamal 👋
+### Hi, I'm Jamal 👋🏽
 
 I'm a Computer Scientist, amateur game developer, and Artificial Intelligence advocate.
 
