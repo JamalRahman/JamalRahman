@@ -9,4 +9,4 @@ I'm a Computer Scientist, amateur game developer, and Artificial Intelligence ad
 
 Find me on [twitter](https://twitter.com/JamalRahman) or [linkedin](https://www.linkedin.com/in/jamal-rahman/).
 
-Shoutout to my former employer for not sharing Github Enterprise commits to Github public, amplifying the sparsity of my Github contribs 2019-2020.
+Shoutout to all my employers for not sharing Github Enterprise commits to Github public, amplifying the sparsity of my Github contribs 2019-2020.
