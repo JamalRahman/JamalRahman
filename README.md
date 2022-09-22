@@ -5,7 +5,7 @@ I'm a Computer Scientist, amateur game developer, and Artificial Intelligence ad
 - 🔭 I’m currently a Machine Learning Engineer at Captify, building out NLP & IR systems, and developing our semantic understanding of search data.
 - 🌱 My AI passions are fundamentally split between NLP, and AI for simulation. I'm a sucker for AI applications in interactive media and simulating the social sciences.
 - 💻 You'll probably find me playing in Unity, testing game mechanic ideas!
-- 🏹 Fun fact: I love archery
+- 🏹 Fun fact: I love archery! In 2018-19 I was a former national University champion, and sponsored athlete. Though nowadays I don't have as much time for archery as I used to! 
 
 Find me on [linkedin](https://www.linkedin.com/in/jamal-rahman/).
 
